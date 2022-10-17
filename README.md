@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hagaitrg
+- 👋 Hi, I’m Disa Hagai Tarigan
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Go, Node JS, and Python
 - 📫 How to reach me disahagait@gmail.com
