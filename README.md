@@ -10,8 +10,8 @@
 
 ## 📬 Connect with Me  
 - 📧 Email: **disahagait@gmail.com**  
-- 💼 [LinkedIn](www.linkedin.com/in/hagaitrg) (Add your LinkedIn profile link here)  
-- 📝 [Portfolio](https://hagaitrg.github.io/my-portfolio/) (If you have a portfolio website)  
+- 💼 [LinkedIn](www.linkedin.com/in/hagaitrg) 
+- 📝 [Portfolio](https://hagaitrg.github.io/my-portfolio/) 
 
 ### 🚀 Tech Stack  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
