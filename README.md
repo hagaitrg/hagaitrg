@@ -3,7 +3,7 @@
 🚀 Passionate about **Software Development** and always eager to learn new technologies.  
 
 ## 🔥 About Me  
-- 💻 Currently exploring **Go, Node.js, and Python**  
+- 💻 Currently exploring **Go, Node.js, TypeScript, and Python**  
 - 🎯 Interested in **backend development, performance optimization, and high-traffic web applications**  
 - 🌎 Building projects with **Laravel, Next.js, and TypeScript**  
 - 📚 Always learning and growing as a **full-stack developer**  
