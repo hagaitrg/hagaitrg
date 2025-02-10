@@ -10,7 +10,7 @@
 
 ## 📬 Connect with Me  
 - 📧 Email: **disahagait@gmail.com**  
-- 💼 [LinkedIn](www.linkedin.com/in/hagaitrg) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/hagaitrg) 
 - 📝 [Portfolio](https://hagaitrg.github.io/my-portfolio/) 
 
 ### 🚀 Tech Stack  
