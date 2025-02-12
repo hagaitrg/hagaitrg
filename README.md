@@ -11,7 +11,7 @@
 ## 📬 Connect with Me  
 - 📧 Email: **disahagait@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hagaitrg) 
-- 📝 [Portfolio](https://hagaitrg.github.io/my-portfolio/) 
+- 📝 [Portfolio](https://hagaitrg.com/) 
 
 ### 🚀 Tech Stack  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
