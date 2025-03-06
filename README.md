@@ -15,7 +15,7 @@
 
 ## 🏅 Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hagaitrg&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=hagaitrg&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hagaitrg&theme=radical)
 
 ### 🚀 Tech Stack  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
