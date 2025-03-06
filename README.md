@@ -14,8 +14,16 @@
 - 📝 [Portfolio](https://hagaitrg.com/)
 
 ## 🏅 Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hagaitrg&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=hagaitrg&layout=compact&theme=radical)
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagaitrg&layout=compact&theme=radical" />
+        </td>
+        <td style="padding-left: 20px;">
+            <img src="https://streak-stats.demolab.com/?user=hagaitrg&layout=compact&theme=radical" />
+        </td>
+    </tr>
+</table>
 
 ### 🚀 Tech Stack  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
