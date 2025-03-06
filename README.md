@@ -11,7 +11,10 @@
 ## 📬 Connect with Me  
 - 📧 Email: **disahagait@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hagaitrg) 
-- 📝 [Portfolio](https://hagaitrg.com/) 
+- 📝 [Portfolio](https://hagaitrg.com/)
+
+## 🏅 Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hagaitrg&layout=compact&theme=radical)
 
 ### 🚀 Tech Stack  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
