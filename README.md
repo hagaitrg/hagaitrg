@@ -16,10 +16,10 @@
 ## 🏅 Stats
 <table>
     <tr>
-        <td>
+        <td style="border: none;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagaitrg&layout=compact&theme=radical" />
         </td>
-        <td style="padding-left: 20px;">
+        <td style="border: none; padding-left: 20px;">
             <img src="https://streak-stats.demolab.com/?user=hagaitrg&layout=compact&theme=radical" />
         </td>
     </tr>
